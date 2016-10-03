@@ -13,8 +13,8 @@ Após o cliente efetuar os passos de compra da loja, escolher o meio de pagament
 Boolean bankSlip = true;
 
 // Configure as credenciais da API
-String clientId = "cf8db6fe61bc1efebc6ae4f5ab4af60c";
-String clientSecret = "f538b73a11eac49827f6da678e859fa7";
+String clientId = "SEU CLIENT ID";
+String clientSecret = "SEU CLIENT SECRET";
 
 SteloAccount steloAccount = new SteloAccount(clientId, clientSecret);
 
